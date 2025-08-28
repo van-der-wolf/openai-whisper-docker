@@ -5,4 +5,6 @@
 # Keep models and audio-files folders in Git (even if empty)
 !/models/.gitkeep
 !/audio-files/.gitkeep
-
+.input
+.idea
+.output
